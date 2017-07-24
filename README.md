@@ -1,18 +1,21 @@
 ## Stephen Geller
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
-I am currently a budding web developer, attending the July cohort of Makers Academy, a 16-week intensive development bootcamp. A recent graduate in Psychology from the University of Sheffield (1st Class), I am looking to find a job in the tech industry, and am currently open-minded to the specifics of what that will be.
+I am currently a budding web developer, attending the July cohort of Makers Academy, a 16-week intensive development bootcamp. A recent graduate in Psychology from the University of Sheffield (1st Class), I am looking to find a job in the tech industry following completion of the bootcamp in October. I am currently open-minded to the specifics of what that will be, and happy to explore new areas.
 
 ## Skills
 
-#### 
+#### Communication
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+During my time at the University of Sheffield's Theatre Company ([SuTCo](http://www.sutco.org/)), I held many roles reliant on clear and confident communication in order to achieve goals work efficiently.  
+
+
 
 - Experience
 - Achievements
 - Evidence
+
 
 #### Another Skill
 
