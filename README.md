@@ -1,6 +1,8 @@
 ## Stephen Geller
 
-I am a budding web developer attending the July cohort of Makers Academy, a 16-week intensive development bootcamp. A recent graduate in Psychology from the University of Sheffield (1st Class), I am looking to find a job in the tech industry following completion of the bootcamp in October. I am currently open-minded to the specifics of what that will be, and happy to explore new areas. I am hard-working, adaptable and fit well with any team-based environment.
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [Blog](http://makingacoder.wordpress.com)
+
+I am a budding web developer attending the July cohort of Makers Academy, a 16-week intensive development bootcamp. A recent graduate in Psychology from the University of Sheffield (1st Class), I am looking to find a job in the tech industry following completion of the bootcamp in October. I am currently open-minded to the specifics of what that will be, and happy to explore new areas and develop new skills. I am hard-working, adaptable and fit well with any team-based environment.
 
 ## Skills
 
@@ -50,7 +52,7 @@ This led to me being promoted into a supervisory role for the team, which involv
 #### University of Sheffield (September 2014 to June 2017)
 
 - Psychology (BSc)
-- 1st class
+- 1st class (Hons)
 - Received a high 1st in my dissertation focused on social media use
 - Additional modules in music technology
 - Held various roles in the Sheffield University Theatre Company including Technical Manager (2015-2016)
@@ -71,7 +73,7 @@ This led to me being promoted into a supervisory role for the team, which involv
 **Healthcare at Home** (March 2014 to July 2014)
 *Customer Services Coordinator & Supervisor*
 
-## Other Skills and Interests
+## Hobbies and Interests
 - Keen musician: I enjoy drumming and producing electronic music, and have had an original piece used as the theme song for a show that premiered on BBC Radio Scotland
 - Fitness-friendly: Frequently either at the gym or yoga classes
 - First-Aid trained
