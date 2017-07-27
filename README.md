@@ -1,6 +1,6 @@
 ## Stephen Geller
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [Blog](http://makingacoder.wordpress.com)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) |[Projects](#projects)| [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [Blog](http://makingacoder.wordpress.com)
 
 I am a budding web developer attending the July cohort of Makers Academy, a 16-week intensive development bootcamp. A recent graduate in Psychology from the University of Sheffield (1st Class), I am looking to find a job in the tech industry following completion of the bootcamp in October. I am currently open-minded to the specifics of what that will be, and happy to explore new areas and develop new skills. I am hard-working, adaptable and fit well with any team-based environment.
 
@@ -37,6 +37,15 @@ While working for Healthcare at Home, I assisted clients in arranging deliveries
 As a coordinator, I dealt with these grievances as professionally as possible, ensuring the client felt reassured with the quality of the company's service by the end of the phone call, whilst also comforting them if they were distressed. Within a short amount of time, I was designated as the 'problem solver', and would be selected to deal with any customer grievances whenever they occured.
 
 This led to me being promoted into a supervisory role for the team, which involved overseeing customer service experience for over eighty staff members.
+
+## Projects
+
+For a complete list, see my [GitHub](https://github.com/stephengeller?tab=repositories).
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Games and ideas](https://www.github.com/stephengeller/games_and_ideas) | A collection of small projects made before the Makers Academy course. Utilises Ruby techniques gathered from independent work before beginning the course. | Ruby |
+
 
 ## Education
 
