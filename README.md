@@ -75,6 +75,7 @@ This led to me being promoted into a supervisory role for the team, which involv
 
 ## Hobbies and Interests
 - Keen musician: I enjoy drumming and producing electronic music, and have had an original piece used as the theme song for a show that premiered on BBC Radio Scotland
-- Fitness-friendly: Frequently either at the gym or yoga classes
+- Video-game enthusiast
+- Fitness-friendly / yogi
 - First-Aid trained
 - Fluent French speaker
