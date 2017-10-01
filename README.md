@@ -38,8 +38,8 @@ All formal communications with hired venues, arrangements of technical training 
 Due to my work in the role I was voted SuTCo's "Techie of the Year" award by my peers at the end-of-year awards event.
 
 ###### Other ways where I showed this skill:
-  - When working at Healthcare At Home, I was promoted to supervisor, becoming responsible for managing over 80 staff members
-  - As production manager of Ben Price's play 'Damage' in 2015, I managed the assembly of music, lighting, props, set and risk assessments through communicating with my production team. The show ran for a week at the [Drama Studio](https://www.sheffield.ac.uk/cics/performance-venues/whats-on), and won best sound and best show at the end of year SuTCo awards
+  - When working at Healthcare At Home, I was promoted to supervisor, becoming responsible for managing communication for over 80 staff members
+  - As production manager of Ben Price's play 'Damage' in 2015, I managed the assembly of music, lighting, props, set and risk assessments through communicating with my production team. The show ran for a week at the [Drama Studio](https://www.sheffield.ac.uk/cics/performance-venues/whats-on), and won both best sound and best show at the end of year SuTCo awards.
   - My job at the Sheffield University Student's Union comprised of communicating with student enquiries, responding to questions sent to the main SU email, and helping student societies arrange events and bookings.
 
 
@@ -57,12 +57,12 @@ Using these skills, we arrived in Riga within our time-limit, having covered 1,6
 I have always been excited by learning new technologies and software, both in music and non music-related areas:
 
   - Learnt how to use [Logic Pro](https://www.apple.com/uk/logic-pro/) at 14 years old to record and produce live music, and subsequently learnt [Ableton Live](https://www.ableton.com/) over a few months in order to explore more electronic-based composition.
-  - Taught myself to use Traktor Pro, a software used by DJs to perform live.
+  - Taught myself to use [Traktor Pro](https://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-2/), a software used by DJs to perform live.
   - Taught myself [QLab](https://figure53.com/qlab/) so I can design soundscapes and sound effects for theatre productions
 
 I am equally keen on learning new techniques when required by the situation at hand:
 
-  - Without any prior knowledge of how to do them, I began writing risk assessments and method statements for shows involving casts and crews of over 30 people
+  - Without any prior knowledge of how to do them, I taught myself to write thorough risk assessments and method statements for shows involving casts and crews of over 30 people.
   - During 'Damage', I learnt how to manage a small £400 budget to provide necessary funds for purchasing all set items
 
 ## Education
