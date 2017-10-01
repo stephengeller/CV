@@ -27,37 +27,43 @@ I have loved learning to create functional and diverse apps throughout the cours
 
 ## Skills
 
-#### Confident communicator
+#### Strong communicator
 
-During my time at the University of Sheffield's Theatre Company ([SuTCo](http://www.sutco.org/)), I held many roles reliant on clear and confident communication in order to achieve goals work efficiently. The most significant role held was the one of Technical Manager for the entire society.
+During my time with the University of Sheffield's Theatre Company ([SuTCo](http://www.sutco.org/)), I held the role of Technical Manager, which was reliant on clear and confident communication in order to achieve goals work efficiently.
 
-This senior role comprised of heading technical activity for the society, and managed operations in over 10 independent productions per year with at least 100 active members. All formal communications with hired venues, arrangements of technical training sessions and technical investment decisions were helmed by me throughout tenancy of the position.
-These responsibilities required extensive communication skills, in order to facilitate interactions between official businesses (such as theatres), production teams and the senior committee.
+This senior role comprised of heading technical activity for the society, and managed operations in over 10 independent productions per year with at least 100 active members.
 
-I held other roles within SuTCo, including:
-- Sound Designer (5 shows)
-- Production Manager (Damage by Ben Price, November 2015)
-- Stage Manager (Festival of New Writing, April 2015)
+All formal communications with hired venues, arrangements of technical training sessions and technical investment decisions were helmed by me throughout tenancy of the position.
 
 Due to my work in the role I was voted SuTCo's "Techie of the Year" award by my peers at the end-of-year awards event.
 
+###### Other ways where I showed this skill:
+  - When working at Healthcare At Home, I was promoted to supervisor, becoming responsible for managing over 80 staff members
+  - As production manager of Ben Price's play 'Damage' in 2015, I managed the assembly of music, lighting, props, set and risk assessments through communicating with my production team. The show ran for a week at the [Drama Studio](https://www.sheffield.ac.uk/cics/performance-venues/whats-on), and won best sound and best show at the end of year SuTCo awards
+  - My job at the Sheffield University Student's Union comprised of communicating with student enquiries, responding to questions sent to the main SU email, and helping student societies arrange events and bookings.
 
-#### Decisive, thorough thinker
+
+#### Decisive and confident
 
 In 2017, I participated in charity hitch-hike ([Bummit](bummit.co.uk)) from Sheffield to Riga, Latvia, all whilst trying to spend as little money as possible. We were tasked with hitching transport across England, then through Europe to reach our destination within ten days.
 
-As a group of three, we had to make confident decisions as to what route we should take throughout Europe, how to approach strangers and where to go within cities we arrived in, all whilst learning to speak unfamiliar new languages. This developed decision-making skills, confidence and support skills for my fellow team-mates during challenging times.
+As a group of three, we had to make confident decisions as to what route we should take throughout Europe, how to approach strangers and where to go within cities we arrived in, all whilst learning to speak unfamiliar new languages.
 
-Using these skills, we arrived in Riga within our time-limit, having covered 1,600 miles, 9 cities and 6 countries.
+Using these skills, we arrived in Riga within our time-limit, having covered 1,600 miles, 9 cities and 6 countries. I also raised £335 for the selected charities, and made a (poorly-edited) [video of my experience!](https://www.youtube.com/watch?v=dEGBNfc9FT0)
 
 
-#### Problem solver
+#### Quick learner
 
-While working for Healthcare at Home, I assisted clients in arranging deliveries of needed medication to their homes. Many clients were elderly, and some had negative experiences with the service in the past, and so contacting them often resulted in them expressing grievances.
+I have always been excited by learning new technologies and software, both in music and non music-related areas:
 
-As a coordinator, I dealt with these grievances as professionally as possible, ensuring the client felt reassured with the quality of the company's service by the end of the phone call, whilst also comforting them if they were distressed. Within a short amount of time, I was designated as the 'problem solver', and would be selected to deal with any customer grievances whenever they occured.
+  - Learnt how to use [Logic Pro](https://www.apple.com/uk/logic-pro/) at 14 years old to record and produce live music, and subsequently learnt [Ableton Live](https://www.ableton.com/) over a few months in order to explore more electronic-based composition.
+  - Taught myself to use Traktor Pro, a software used by DJs to perform live.
+  - Taught myself [QLab](https://figure53.com/qlab/) so I can design soundscapes and sound effects for theatre productions
 
-This led to me being promoted into a supervisory role for the team, which involved overseeing customer service experience for over eighty staff members.
+I am equally keen on learning new techniques when required by the situation at hand:
+
+  - Without any prior knowledge of how to do them, I began writing risk assessments and method statements for shows involving casts and crews of over 30 people
+  - During 'Damage', I learnt how to manage a small £400 budget to provide necessary funds for purchasing all set items
 
 ## Education
 
@@ -67,8 +73,8 @@ This led to me being promoted into a supervisory role for the team, which involv
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, JavaScript, Node.js
+- Testing: Rspec, Jasmine, Mocha
 
 #### University of Sheffield (September 2014 to June 2017)
 
@@ -98,5 +104,3 @@ This led to me being promoted into a supervisory role for the team, which involv
 - Keen musician: I enjoy drumming and producing electronic music, and have had an original piece used as the theme song for a show that premiered on BBC Radio Scotland
 - Video-game enthusiast
 - Yogi
-- First-Aid trained
-- Fluent French speaker
