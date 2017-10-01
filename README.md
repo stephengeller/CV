@@ -1,8 +1,28 @@
 ## Stephen Geller
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) |[Projects](#projects)| [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [Blog](http://makingacoder.wordpress.com)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) |  [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [Blog](http://makingacoder.wordpress.com) | [My Website](http://www.stephengeller.com)
 
-I am a budding web developer attending the July cohort of Makers Academy, a 16-week intensive development bootcamp. A recent graduate in Psychology from the University of Sheffield (1st Class), I am looking to find a job in the tech industry following completion of the bootcamp in October. I am currently open-minded to the specifics of what that will be, and happy to explore new areas and develop new skills. I am hard-working, adaptable and fit well with any team-based environment.
+I am a full-stack web developer in training, attending Makers Academy, a 16-week intensive development bootcamp.
+
+I am currently looking for work as a junior software developer.
+
+## Projects
+
+| Project  | Description  | Technologies  |
+|:--------:|:-------------|:--------------|
+|[Games and Ideas](https://github.com/stephengeller/games_and_ideas)|Built before the Makers Academy course began. Look how far I've come since then.|Language: Ruby|
+|[stephengeller.co.uk](http://stephengeller.co.uk)|Personal website created in my spare time using Node and ExpressJS after two weeks of learning JavaScript. Modified to additionally host a draft of my blog and bowling calculator|Language: Javascript <br/> Frameworks: NodeJS, ExpressJS <br/> Linting: ESLint|
+|[Bowling Calculator](http://stephengeller.com/bowling)|A program that calculates bowling scores on the fly. Made while learning about mixing front-end (EJS pages, CSS styling) with tested back-end (Javascript functions tested with Jasmine). Hosted on my website.|Language: Javascript <br/> Testing: Jasmine|
+
+
+## About me
+
+A recent graduate in Psychology from the University of Sheffield (1st Class), I wanted
+
+I am looking to find a job in the tech industry following completion of the bootcamp in October.
+
+I am currently open-minded to the specifics of what that will be, and happy to explore new areas and develop new skills. I am hard-working, adaptable and fit well with any team-based environment.
+
 
 ## Skills
 
@@ -32,7 +52,7 @@ Using these skills, we arrived in Riga within our time-limit, having covered 1,6
 
 #### Problem solver
 
-While working for Healthcare at Home, I assisted clients in arranging deliveries of needed medication to their homes. Many clients were elderly, and some had negative experiences with the service in the past, and so contacting them often resulted in them expressing grievances. 
+While working for Healthcare at Home, I assisted clients in arranging deliveries of needed medication to their homes. Many clients were elderly, and some had negative experiences with the service in the past, and so contacting them often resulted in them expressing grievances.
 
 As a coordinator, I dealt with these grievances as professionally as possible, ensuring the client felt reassured with the quality of the company's service by the end of the phone call, whilst also comforting them if they were distressed. Within a short amount of time, I was designated as the 'problem solver', and would be selected to deal with any customer grievances whenever they occured.
 
