@@ -104,6 +104,7 @@ For a complete list, see my [GitHub](https://github.com/stephengeller?tab=reposi
 
 ## Hobbies and Interests
 - Keen musician: I enjoy drumming and producing electronic music, and have had an original piece used as the theme song for a show that premiered on BBC Radio Scotland
-- Fitness-friendly: Frequently either at the gym or yoga classes
+- Video-game enthusiast
+- Yogi
 - First-Aid trained
 - Fluent French speaker
