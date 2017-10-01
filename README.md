@@ -18,18 +18,18 @@ I am currently looking for work as a junior software developer.
 
 ## About me
 
-A recent graduate in Psychology from the University of Sheffield (1st Class), I wanted
+A recent graduate in Psychology from the University of Sheffield, I decided that I wanted to pursue a career in technology where I could be creative and engaged on a daily basis, and so I began investigating the world of software development to see if it would be appropriate for me.
 
-I am looking to find a job in the tech industry following completion of the bootcamp in October.
+After experimenting with the fundamentals of object-oriented design and basic methods, I committed to a new exciting career choice in software development and applied to [Makers Academy](http://www.makersacademy.com), where I learnt a broad range of skills.
 
-I am currently open-minded to the specifics of what that will be, and happy to explore new areas and develop new skills. I am hard-working, adaptable and fit well with any team-based environment.
+I have loved learning to create functional and diverse apps throughout the course and in my free time, and have benefited from it in terms of employing test-driven development, communicating code through pairing and improving my independent learning techniques.
 
 
 ## Skills
 
 #### Confident communicator
 
-During my time at the University of Sheffield's Theatre Company ([SuTCo](http://www.sutco.org/)), I held many roles reliant on clear and confident communication in order to achieve goals work efficiently.
+During my time at the University of Sheffield's Theatre Company ([SuTCo](http://www.sutco.org/)), I held many roles reliant on clear and confident communication in order to achieve goals work efficiently. The most significant role held was the one of Technical Manager for the entire society.
 
 This senior role comprised of heading technical activity for the society, and managed operations in over 10 independent productions per year with at least 100 active members. All formal communications with hired venues, arrangements of technical training sessions and technical investment decisions were helmed by me throughout tenancy of the position.
 These responsibilities required extensive communication skills, in order to facilitate interactions between official businesses (such as theatres), production teams and the senior committee.
@@ -58,15 +58,6 @@ While working for Healthcare at Home, I assisted clients in arranging deliveries
 As a coordinator, I dealt with these grievances as professionally as possible, ensuring the client felt reassured with the quality of the company's service by the end of the phone call, whilst also comforting them if they were distressed. Within a short amount of time, I was designated as the 'problem solver', and would be selected to deal with any customer grievances whenever they occured.
 
 This led to me being promoted into a supervisory role for the team, which involved overseeing customer service experience for over eighty staff members.
-
-## Projects
-
-For a complete list, see my [GitHub](https://github.com/stephengeller?tab=repositories).
-
-| Project   | Description | Technologies |
-|---        |---         |---           |
-| [Games and ideas](https://www.github.com/stephengeller/games_and_ideas) | A collection of small projects made before the Makers Academy course. Utilises Ruby techniques gathered from independent work before beginning the course. | Ruby |
-
 
 ## Education
 
