@@ -1,6 +1,6 @@
 ## Stephen Geller
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) |  [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [Blog](http://makingacoder.wordpress.com) | [My Website](http://www.stephengeller.com)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) |  [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [WordPress](http://makingacoder.wordpress.com) | [My Website](http://www.stephengeller.co.uk)
 
 I am a full-stack web developer in training, attending Makers Academy, a 16-week intensive development bootcamp.
 
@@ -13,7 +13,7 @@ I am currently looking for work as a junior software developer.
 |[Games and Ideas](https://github.com/stephengeller/games_and_ideas)|Built before the Makers Academy course began. Look how far I've come since then.|*Language*: Ruby|
 |[stephengeller.co.uk](http://stephengeller.co.uk)|Personal website created in my spare time using Node and ExpressJS after two weeks of learning JavaScript. Modified to additionally host a draft of my blog and bowling calculator|*Language*: Javascript <br/> *Frameworks*: NodeJS, ExpressJS <br/> *Linting*: ESLint|
 |[Bowling Calculator](http://stephengeller.com/bowling)|A program that calculates bowling scores on the fly. Made while learning about mixing front-end (EJS pages, CSS styling) with tested back-end (Javascript functions tested with Jasmine). Hosted on my website.|*Language*: Javascript <br/> *Testing*: Jasmine|
-|[Stevestagram](https://github.com/stephengeller/instagram-challenge)| Instagram-inspired newsfeed challenge made using Rails after one week of learning. Users can sign up, post pictures onto a feed (and edit/delete them), add/delete comments and like/unlike snaps. Users can also see their own profile with only their pictures on it.|*Language*: Ruby <br/>*Frameworks*: Ruby on Rails<br/>*Gems*: acts_as_votable (voting), Clearance (user sessions) <br/> *Persistence*: PostgreSQL <br/>*Testing*: RSpec, Capybara|
+|[Stevestagram](https://github.com/stephengeller/instagram-challenge)| Instagram-inspired newsfeed challenge made using Rails after one week of learning. Users can sign up, post pictures onto a feed (and edit/delete them), add/delete comments and like/unlike snaps. Users can also see their own profile with only their pictures on it.|*Frameworks*: Ruby on Rails, acts_as_votable (voting), Clearance (user sessions) <br/> *Persistence*: PostgreSQL <br/>*Testing*: RSpec, Capybara|
 
 
 ## About me
