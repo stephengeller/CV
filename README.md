@@ -1,6 +1,6 @@
 ## Stephen Geller
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) |  [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [WordPress](http://makingacoder.wordpress.com) | [My Website](http://www.stephengeller.co.uk)
+[Projects](#projects) | [About Me](#about-me) | [Skills](#skills) |  [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [WordPress](http://makingacoder.wordpress.com) | [My Website](http://www.stephengeller.co.uk)
 
 I am a full-stack web developer in training, attending Makers Academy, a 16-week intensive development bootcamp.
 
@@ -37,7 +37,7 @@ All formal communications with hired venues, arrangements of technical training 
 
 Due to my work in the role I was voted SuTCo's "Techie of the Year" award by my peers at the end-of-year awards event.
 
-###### Other ways where I showed this skill:
+##### Other ways where I showed this skill:
   - When working at Healthcare At Home, I was promoted to supervisor, becoming responsible for managing communication for over 80 staff members
   - As production manager of Ben Price's play 'Damage' in 2015, I managed the assembly of music, lighting, props, set and risk assessments through communicating with my production team. The show ran for a week at the [Drama Studio](https://www.sheffield.ac.uk/cics/performance-venues/whats-on), and won both best sound and best show at the end of year SuTCo awards.
   - My job at the Sheffield University Student's Union comprised of communicating with student enquiries, responding to questions sent to the main SU email, and helping student societies arrange events and bookings.
@@ -71,10 +71,10 @@ I am equally keen on learning new techniques when required by the situation at h
 
 - Curiosity and passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js
-- Testing: Rspec, Jasmine, Mocha
+- Practices: OOP, TDD, SOLID, MVC, Pair-programming
+- Languages: Ruby, JavaScript
+- Frameworks: Rails, Node.js, Express.js
+- Testing: Rspec, Capybara, Jasmine, Mocha / Chai, Zombie
 
 #### University of Sheffield (September 2014 to June 2017)
 
@@ -102,5 +102,4 @@ I am equally keen on learning new techniques when required by the situation at h
 
 ## Hobbies and Interests
 - Keen musician: I enjoy drumming and producing electronic music, and have had an original piece used as the theme song for a show that premiered on BBC Radio Scotland
-- Video-game enthusiast
-- Yogi
+- Love films, theatre, television and video-games
