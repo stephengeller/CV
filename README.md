@@ -27,6 +27,19 @@ I have loved learning to create functional and diverse apps throughout the cours
 
 ## Skills
 
+#### Quick learner
+
+I have always been excited by learning new technologies and software, both in music and non music-related areas:
+
+  - Learnt how to use [Logic Pro](https://www.apple.com/uk/logic-pro/) at 14 years old to record and produce live music, and subsequently learnt [Ableton Live](https://www.ableton.com/) over a few months in order to explore more electronic-based composition.
+  - Taught myself to use [Traktor Pro](https://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-2/), a software used by DJs to perform live.
+  - Taught myself [QLab](https://figure53.com/qlab/) so I can design soundscapes and sound effects for theatre productions
+
+I am equally keen on learning new techniques when required by the situation at hand:
+
+  - Without any prior knowledge of how to do them, I taught myself to write thorough risk assessments and method statements for shows involving casts and crews of over 30 people.
+  - During 'Damage', I learnt how to manage a small £400 budget to provide necessary funds for purchasing all set items
+
 #### Strong communicator
 
 During my time with the University of Sheffield's Theatre Company ([SuTCo](http://www.sutco.org/)), I held the role of Technical Manager, which was reliant on clear and confident communication in order to achieve goals work efficiently.
@@ -51,19 +64,6 @@ As a group of three, we had to make confident decisions as to what route we shou
 
 Using these skills, we arrived in Riga within our time-limit, having covered 1,600 miles, 9 cities and 6 countries. I also raised £335 for the selected charities, and made a (poorly-edited) [video of my experience!](https://www.youtube.com/watch?v=dEGBNfc9FT0)
 
-
-#### Quick learner
-
-I have always been excited by learning new technologies and software, both in music and non music-related areas:
-
-  - Learnt how to use [Logic Pro](https://www.apple.com/uk/logic-pro/) at 14 years old to record and produce live music, and subsequently learnt [Ableton Live](https://www.ableton.com/) over a few months in order to explore more electronic-based composition.
-  - Taught myself to use [Traktor Pro](https://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-2/), a software used by DJs to perform live.
-  - Taught myself [QLab](https://figure53.com/qlab/) so I can design soundscapes and sound effects for theatre productions
-
-I am equally keen on learning new techniques when required by the situation at hand:
-
-  - Without any prior knowledge of how to do them, I taught myself to write thorough risk assessments and method statements for shows involving casts and crews of over 30 people.
-  - During 'Damage', I learnt how to manage a small £400 budget to provide necessary funds for purchasing all set items
 
 ## Education
 
