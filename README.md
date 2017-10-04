@@ -12,7 +12,7 @@ I am currently looking for work as a junior software developer.
 |:--------:|:----|:--------------|
 |[Games and Ideas](https://github.com/stephengeller/games_and_ideas)|Built before the Makers Academy course began. Look how far I've come since then.|*Language*: Ruby|
 |[stephengeller.co.uk](http://stephengeller.co.uk)|Personal website created in my spare time using Node and ExpressJS after two weeks of learning JavaScript. Modified to additionally host a draft of my blog and bowling calculator|*Language*: Javascript <br/> *Frameworks*: NodeJS, ExpressJS <br/> *Linting*: ESLint|
-|[Bowling Calculator](http://stephengeller.com/bowling)|A program that calculates bowling scores on the fly. Made while learning about mixing front-end (EJS pages, CSS styling) with tested back-end (Javascript functions tested with Jasmine). Hosted on my website.|*Language*: Javascript <br/> *Testing*: Jasmine|
+|[Bowling Calculator](https://github.com/stephengeller/bowling-challenge)|A program that calculates bowling scores on the fly. Made while learning about mixing front-end (EJS pages, CSS styling) with tested back-end (Javascript functions tested with Jasmine). Hosted on my [website](http://stephengeller.co.uk/bowling).|*Language*: Javascript <br/> *Testing*: Jasmine|
 |[Stevestagram](https://github.com/stephengeller/instagram-challenge)| Instagram-inspired newsfeed challenge made using Rails after one week of learning. Users can sign up, post pictures onto a feed (and edit/delete them), add/delete comments and like/unlike snaps. Users can also see their own profile with only their pictures on it.|*Frameworks*: Ruby on Rails, acts_as_votable (voting), Clearance (user sessions) <br/> *Persistence*: PostgreSQL <br/>*Testing*: RSpec, Capybara|
 
 
