@@ -20,7 +20,7 @@ I am currently looking for work as a junior software developer.
 
 A recent graduate in Psychology from the University of Sheffield, I decided that I wanted to pursue a career in technology where I could be creative and engaged on a daily basis, and so I began investigating the world of software development to see if it would be appropriate for me.
 
-After experimenting with the fundamentals of object-oriented design and basic methods, I committed to a new exciting career choice in software development and applied to [Makers Academy](http://www.makersacademy.com), where I learnt a broad range of skills.
+After experimenting with the fundamentals of object-oriented design, I committed to a new exciting career direction in software development and applied to [Makers Academy](http://www.makersacademy.com), where I learnt a broad range of skills.
 
 I have loved learning to create functional and diverse apps throughout the course and in my free time, and have benefited from it in terms of employing test-driven development, communicating code through pairing and improving my independent learning techniques.
 
