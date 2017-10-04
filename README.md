@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [About Me](#about-me) | [Skills](#skills) |  [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [WordPress](http://makingacoder.wordpress.com) | [My Website](http://www.stephengeller.co.uk)
 
-I am a full-stack web developer in training, attending Makers Academy, a 16-week intensive development bootcamp.
+I am a full-stack web developer in training, attending Makers Academy, a 12-week intensive development bootcamp.
 
 I am currently looking for work as a junior software developer.
 
@@ -11,14 +11,14 @@ I am currently looking for work as a junior software developer.
 | Project  | Description  | Technologies|
 |:--------:|:----|:--------------|
 |[Games and Ideas](https://github.com/stephengeller/games_and_ideas)|Built before the Makers Academy course began. Look how far I've come since then.|*Language*: Ruby|
-|[stephengeller.co.uk](http://stephengeller.co.uk)|Personal website created in my spare time using Node and ExpressJS after two weeks of learning JavaScript. Modified to additionally host a draft of my blog and bowling calculator|*Language*: Javascript <br/> *Frameworks*: NodeJS, ExpressJS <br/> *Linting*: ESLint|
+|[stephengeller.co.uk](http://stephengeller.co.uk)|Personal website created in my spare time using Node and ExpressJS after two weeks of learning JavaScript. Modified to additionally host a draft of my blog and bowling calculator|*Language*: Javascript <br/> *Frameworks*: NodeJS, ExpressJS <br/> *Linting*: ESLint <br/> *Deployment*: Heroku|
 |[Bowling Calculator](https://github.com/stephengeller/bowling-challenge)|A program that calculates bowling scores on the fly. Made while learning about mixing front-end (EJS pages, CSS styling) with tested back-end (Javascript functions tested with Jasmine). Hosted on my [website](http://stephengeller.co.uk/bowling).|*Language*: Javascript <br/> *Testing*: Jasmine|
 |[Stevestagram](https://github.com/stephengeller/instagram-challenge)| Instagram-inspired newsfeed challenge made using Rails after one week of learning. Users can sign up, post pictures onto a feed (and edit/delete them), add/delete comments and like/unlike snaps. Users can also see their own profile with only their pictures on it.|*Frameworks*: Ruby on Rails, acts_as_votable (voting), Clearance (user sessions) <br/> *Persistence*: PostgreSQL <br/>*Testing*: RSpec, Capybara|
 
 
 ## About me
 
-A recent graduate in Psychology from the University of Sheffield, I decided that I wanted to pursue a career in technology where I could be creative and engaged on a daily basis, and so I began investigating the world of software development to see if it would be appropriate for me.
+A recent graduate in Psychology from the University of Sheffield, I decided that I wanted to pursue a career in technology where I could be creative and engaged on a daily basis, and so I began investigating the world of software development.
 
 After experimenting with the fundamentals of object-oriented design, I committed to a new exciting career direction in software development and applied to [Makers Academy](http://www.makersacademy.com), where I learnt a broad range of skills.
 
