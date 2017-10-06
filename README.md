@@ -2,11 +2,13 @@
 
 [Projects](#projects) | [About Me](#about-me) | [Skills](#skills) |  [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [WordPress](http://makingacoder.wordpress.com) | [My Website](http://www.stephengeller.co.uk)
 
-I am a full-stack web developer in training, attending Makers Academy, a 12-week intensive development bootcamp.
+I am amn ambitious **full-stack web developer** attending Makers Academy, a 12-week intensive development bootcamp. I pick up new skills very quickly, and can produce clean tested code following best practices. I have previous experience working in large technical teams, and have managed technical work in theatre productions. 
 
 I am currently looking for work as a junior software developer.
 
 ## Projects
+
+For a complete list, see my [GitHub](https://github.com/stephengeller/repositories).
 
 | Project  | Description  | Technologies|
 |:--------:|:----|:--------------|
@@ -42,23 +44,21 @@ I am equally keen on learning new techniques when required by the situation at h
 
 #### Strong communicator
 
-During my time with the University of Sheffield's Theatre Company ([SuTCo](http://www.sutco.org/)), I held the role of Technical Manager, which was reliant on clear and confident communication in order to achieve goals work efficiently.
+During my time with the University of Sheffield's Theatre Company ([SuTCo](http://www.sutco.org/)), I held the role of Technical Manager, which comprised of heading technical activity for the society, and managed operations in over 10 independent productions per year with over 200 active members.
 
-This senior role comprised of heading technical activity for the society, and managed operations in over 10 independent productions per year with at least 100 active members.
-
-All formal communications with hired venues, arrangements of technical training sessions and technical investment decisions were helmed by me throughout tenancy of the position.
+All formal communications with hired venues, arrangements of technical training sessions and technical investment decisions were helmed by me throughout tenancy of the position. I developed this skill by attending meetings, managing Facebook pages and seeking out skilled people to train other students.
 
 Due to my work in the role I was voted SuTCo's "Techie of the Year" award by my peers at the end-of-year awards event.
 
 ##### Other ways where I showed this skill:
-  - When working at Healthcare At Home, I was promoted to supervisor, becoming responsible for managing communication for over 80 staff members
+  - When working at Healthcare At Home, I was promoted to supervisor by my manager, becoming responsible for managing communication between over 80 staff members
   - As production manager of Ben Price's play 'Damage' in 2015, I managed the assembly of music, lighting, props, set and risk assessments through communicating with my production team. The show ran for a week at the [Drama Studio](https://www.sheffield.ac.uk/cics/performance-venues/whats-on), and won both best sound and best show at the end of year SuTCo awards.
   - My job at the Sheffield University Student's Union comprised of communicating with student enquiries, responding to questions sent to the main SU email, and helping student societies arrange events and bookings.
 
 
 #### Decisive and confident
 
-In 2017, I participated in charity hitch-hike ([Bummit](bummit.co.uk)) from Sheffield to Riga, Latvia, all whilst trying to spend as little money as possible. We were tasked with hitching transport across England, then through Europe to reach our destination within ten days.
+In 2017, I participated in a charity hitch-hike ([Bummit](bummit.co.uk)) from Sheffield to Riga, Latvia, all whilst trying to spend as little money as possible. We were tasked with hitching transport across England, then through Europe to reach our destination within ten days.
 
 As a group of three, we had to make confident decisions as to what route we should take throughout Europe, how to approach strangers and where to go within cities we arrived in, all whilst learning to speak unfamiliar new languages.
 
@@ -71,7 +71,7 @@ Using these skills, we arrived in Riga within our time-limit, having covered 1,6
 
 - Curiosity and passion for code
 - Independent learner and problem-solver
-- Practices: OOP, TDD, SOLID, MVC, Pair-programming
+- Practices: OOP, TDD, MVC, Pair-programming
 - Languages: Ruby, JavaScript
 - Frameworks: Rails, Node.js, Express.js
 - Testing: Rspec, Capybara, Jasmine, Mocha / Chai, Zombie
