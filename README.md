@@ -71,6 +71,7 @@ Using these skills, we arrived in Riga within our time-limit, having covered 1,6
 
 - Curiosity and passion for code
 - Independent learner and problem-solver
+- Methodologies : Agile, XP
 - Practices: OOP, TDD, MVC, Pair-programming
 - Languages: Ruby, JavaScript
 - Frameworks: Rails, Node.js, Express.js
