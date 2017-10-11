@@ -2,9 +2,13 @@
 
 [Projects](#projects) | [About Me](#about-me) | [Skills](#skills) |  [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [WordPress](http://makingacoder.wordpress.com) | [My Website](http://www.stephengeller.co.uk)
 
-I am amn ambitious **full-stack web developer** attending Makers Academy, a 12-week intensive development bootcamp. I pick up new skills very quickly, and can produce clean tested code following best practices. I have previous experience working in large technical teams, and have managed technical work in theatre productions. 
+I am an ambitious **full-stack web developer** attending Makers Academy, a 12-week intensive development bootcamp. I pick up new skills very quickly, and can produce clean tested code following best practices. I have previous experience working in large technical teams, and have managed technical work in theatre productions.
 
 I am currently looking for work as a junior software developer.
+
+A recent graduate in Psychology from the University of Sheffield, I decided that I wanted to pursue a career in technology where I could be creative and engaged on a daily basis, and so I began investigating the world of software development.
+
+I have loved learning to create functional and diverse apps throughout the course and in my free time, and have benefited from it in terms of employing test-driven development, communicating code through pairing and improving my independent learning techniques.
 
 ## Projects
 
@@ -16,16 +20,6 @@ For a complete list, see my [GitHub](https://github.com/stephengeller/repositori
 |[stephengeller.co.uk](http://stephengeller.co.uk)|Personal website created in my spare time using Node and ExpressJS after two weeks of learning JavaScript. Modified to additionally host a draft of my blog and bowling calculator|*Language*: Javascript <br/> *Frameworks*: NodeJS, ExpressJS <br/> *Linting*: ESLint <br/> *Deployment*: Heroku|
 |[Bowling Calculator](https://github.com/stephengeller/bowling-challenge)|A program that calculates bowling scores on the fly. Made while learning about mixing front-end (EJS pages, CSS styling) with tested back-end (Javascript functions tested with Jasmine). Hosted on my [website](http://stephengeller.co.uk/bowling).|*Language*: Javascript <br/> *Testing*: Jasmine|
 |[Stevestagram](https://github.com/stephengeller/instagram-challenge)| Instagram-inspired newsfeed challenge made using Rails after one week of learning. Users can sign up, post pictures onto a feed (and edit/delete them), add/delete comments and like/unlike snaps. Users can also see their own profile with only their pictures on it.|*Frameworks*: Ruby on Rails, acts_as_votable (voting), Clearance (user sessions) <br/> *Persistence*: PostgreSQL <br/>*Testing*: RSpec, Capybara|
-
-
-## About me
-
-A recent graduate in Psychology from the University of Sheffield, I decided that I wanted to pursue a career in technology where I could be creative and engaged on a daily basis, and so I began investigating the world of software development.
-
-After experimenting with the fundamentals of object-oriented design, I committed to a new exciting career direction in software development and applied to [Makers Academy](http://www.makersacademy.com), where I learnt a broad range of skills.
-
-I have loved learning to create functional and diverse apps throughout the course and in my free time, and have benefited from it in terms of employing test-driven development, communicating code through pairing and improving my independent learning techniques.
-
 
 ## Skills
 
