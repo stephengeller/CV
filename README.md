@@ -24,6 +24,14 @@ For a complete list, see my [GitHub](https://github.com/stephengeller/repositori
 
 ## Skills
 
+#### Coding
+
+Picked up through Makers Academy and independent learning:
+- Practices: OOP, TDD, MVC, Pair-programming
+- Languages: Ruby, JavaScript, Python
+- Frameworks: Rails, Node.js, Express.js, CherryPy, jQuery
+- Testing: Rspec, Capybara, Jasmine, Mocha / Chai, Zombie, UnitTest, PyTest
+
 #### Quick learner
 
 I have always been excited by learning new technologies and software, both in music and non music-related areas:
@@ -61,17 +69,11 @@ Using these skills, we arrived in Riga within our time-limit, having covered 1,6
 ## Education
 
 #### Makers Academy (July 2017 - October 2017)
-
 - Curiosity and passion for code
 - Independent learner and problem-solver
-- Methodologies : Agile, XP
-- Practices: OOP, TDD, MVC, Pair-programming
-- Languages: Ruby, JavaScript
-- Frameworks: Rails, Node.js, Express.js
-- Testing: Rspec, Capybara, Jasmine, Mocha / Chai, Zombie
+- Methodologies: Agile, XP
 
 #### University of Sheffield (September 2014 to June 2017)
-
 - Psychology (BSc)
 - 1st class (Hons)
 - Received a high 1st in my dissertation focused on social media use
@@ -79,8 +81,7 @@ Using these skills, we arrived in Riga within our time-limit, having covered 1,6
 - Held various roles in the Sheffield University Theatre Company including Technical Manager (2015-2016)
 
 #### Reigate Grammar School, Surrey (September 2005 to 2012)
-
-- A Levels: AAAB in Politics, Theatre Studies, Music Technology and Maths
+- A Levels: AAAB in Politics, Theatre Studies, Music Technology and Maths (A2)
 - Grade 5 Music Theory
 - Captain of the schools' rugby 7s team and awarded overall player of the season (2012, final year)
 - Performed in leading roles in multiple school theatre productions
@@ -101,4 +102,5 @@ Using these skills, we arrived in Riga within our time-limit, having covered 1,6
 ## Contact me
 
 Email: stephen.geller@hotmail.com
+
 Phone: +447896084705
