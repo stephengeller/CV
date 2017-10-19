@@ -98,3 +98,8 @@ Using these skills, we arrived in Riga within our time-limit, having covered 1,6
 ## Hobbies and Interests
 - Keen musician: I enjoy drumming and producing electronic music, and have had an original piece used as the theme song for a show that premiered on BBC Radio Scotland
 - Love films, theatre, television and video-games
+
+## Contact me
+
+Email: stephen.geller@hotmail.com
+Phone: +447896084705
