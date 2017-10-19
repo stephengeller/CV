@@ -30,6 +30,7 @@ Picked up through Makers Academy and independent learning:
 - Practices: OOP, TDD, MVC, Pair-programming
 - Languages: Ruby, JavaScript, Python
 - Frameworks: Rails, Node.js, Express.js, CherryPy, jQuery
+- Currently teaching myself ReactJS
 - Testing: Rspec, Capybara, Jasmine, Mocha / Chai, Zombie, UnitTest, PyTest
 
 #### Quick learner
