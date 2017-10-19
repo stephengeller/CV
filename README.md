@@ -16,6 +16,7 @@ For a complete list, see my [GitHub](https://github.com/stephengeller/repositori
 
 | Project  | Description  | Technologies|
 |:--------:|:----|:--------------|
+|[helloWorld](https://github.com/stephengeller/Mapp)|Our final project at Makers Academy. A multi-lingual messaging service that translates before you receive them|*Languages*: Python, Javascript <br/> *Frameworks*: CherryPy, jQuery <br/> *Testing*: UnitTest, PyTest, Jasmine <br/> *Persistence*: SQLite |
 |[Games and Ideas](https://github.com/stephengeller/games_and_ideas)|Built before the Makers Academy course began. Look how far I've come since then.|*Language*: Ruby|
 |[stephengeller.co.uk](http://stephengeller.co.uk)|Personal website created in my spare time using Node and ExpressJS after two weeks of learning JavaScript. Modified to additionally host a draft of my blog and bowling calculator|*Language*: Javascript <br/> *Frameworks*: NodeJS, ExpressJS <br/> *Linting*: ESLint <br/> *Deployment*: Heroku|
 |[Bowling Calculator](https://github.com/stephengeller/bowling-challenge)|A program that calculates bowling scores on the fly. Made while learning about mixing front-end (EJS pages, CSS styling) with tested back-end (Javascript functions tested with Jasmine). Hosted on my [website](http://stephengeller.co.uk/bowling).|*Language*: Javascript <br/> *Testing*: Jasmine|
@@ -47,8 +48,6 @@ Due to my work in the role I was voted SuTCo's "Techie of the Year" award by my 
 ##### Other ways where I showed this skill:
   - When working at Healthcare At Home, I was promoted to supervisor by my manager, becoming responsible for managing communication between over 80 staff members
   - As production manager of Ben Price's play 'Damage' in 2015, I managed the assembly of music, lighting, props, set and risk assessments through communicating with my production team. The show ran for a week at the [Drama Studio](https://www.sheffield.ac.uk/cics/performance-venues/whats-on), and won both best sound and best show at the end of year SuTCo awards.
-  - My job at the Sheffield University Student's Union comprised of communicating with student enquiries, responding to questions sent to the main SU email, and helping student societies arrange events and bookings.
-
 
 #### Decisive and confident
 
