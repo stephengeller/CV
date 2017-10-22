@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [About Me](#about-me) | [Skills](#skills) |  [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [WordPress](http://makingacoder.wordpress.com) | [My Website](http://www.stephengeller.co.uk)
 
-I am an ambitious **full-stack web developer** attending Makers Academy, a 12-week intensive development bootcamp. I pick up new skills very quickly, and can produce clean tested code following best practices. I have previous experience working in large technical teams, and have managed technical work in theatre productions.
+I am an ambitious **full-stack web developer** and a graduate from Makers Academy, a 12-week intensive development bootcamp. I pick up new skills very quickly, and can produce clean tested code following best practices. I have previous experience working in large technical teams, and have managed technical work in theatre productions.
 
 I am currently looking for work as a junior software developer.
 
