@@ -84,7 +84,7 @@ I am equally keen on learning new techniques when required by the situation at h
 
 ## Experience
 
-**Sheffield Student's Union** (August 2015 to June 2016)    
+**Sheffield Student's Union** (August 2015 to June 2017)    
 *Information and Communication Assistant*
 
 **Healthcare at Home** (March 2014 to July 2014)
