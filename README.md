@@ -6,7 +6,7 @@ I am an ambitious **full-stack web developer** based in London, UK. I pick up ne
 
 I recently graduated from [Makers Academy](http://www.makersacademy.com) - a 12-week intensive development bootcamp - and am currently looking for work as a junior software developer.
 
-A recent graduate in Psychology from the University of Sheffield, I decided that I wanted to pursue a career in technology where I could be creative and engaged on a daily basis, and so I began investigating the world of software development.
+A graduate in Psychology from the University of Sheffield, I decided that I wanted to pursue a career in technology where I could be creative and engaged on a daily basis, and so I began investigating the world of software development.
 
 I have loved learning to create functional and diverse apps throughout the course and in my free time, and have benefited from it in terms of employing test-driven development, communicating code through pairing and improving my independent learning techniques.
 
