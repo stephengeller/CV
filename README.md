@@ -1,6 +1,6 @@
 ## Stephen Geller
 
-[Projects](#projects) | [About Me](#about-me) | [Skills](#skills) |  [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [WordPress](http://makingacoder.wordpress.com) | [My Website](http://www.stephengeller.co.uk)
+[Projects](#projects) | [Skills](#skills) |  [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [WordPress](http://makingacoder.wordpress.com) | [My Website](http://www.stephengeller.co.uk)
 
 I am an ambitious **full-stack web developer** based in London, UK. I pick up new skills very quickly, and can produce clean tested code following best practices. I have previous experience working in large technical teams, and have managed technical work in theatre productions.
 
