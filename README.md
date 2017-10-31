@@ -42,7 +42,7 @@ I have always been excited by learning new technologies and software, both in mu
 
 I am equally keen on learning new techniques when required by the situation at hand:
   - Without any prior knowledge of how to do them, I taught myself to write thorough risk assessments and method statements for shows involving casts and crews of over 30 people.
-  - During 'Damage', I learnt how to manage a small £400 budget to provide necessary funds for purchasing all set items
+  - During 'Damage' - explained below - I learnt how to manage a small £400 budget to provide necessary funds for purchasing all set items
 
 #### Strong communicator
 
