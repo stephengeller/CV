@@ -97,5 +97,3 @@ I am equally keen on learning new techniques when required by the situation at h
 ## Contact me
 
 Email: stephen.geller@hotmail.com
-
-Phone: +447896084705
