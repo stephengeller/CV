@@ -4,19 +4,20 @@
 
 I am an ambitious full-stack web developer based in London, UK. I pick up new skills very quickly, and can produce clean tested code following best practices. I have previous experience working in large technical teams, and have managed technical work in theatre productions.
 
-I recently graduated from [Makers Academy](http://www.makersacademy.com) - a 12-week intensive development bootcamp - and am currently looking for work as a junior software developer.
+I am a graduate from [Makers Academy](http://www.makersacademy.com) - a 12-week intensive development bootcamp - and am currently employed at [Unruly](http://www.unruly.co) as a Software Developer specialising in shared infrastructure development.
 
 A graduate in Psychology from the University of Sheffield, I decided that I wanted to pursue a career in technology where I could be creative and engaged on a daily basis, and so I began investigating the world of software development.
 
-I have loved learning to create functional and diverse apps throughout the course and in my free time, and have benefited from it in terms of employing test-driven development, communicating code through pairing and improving my independent learning techniques.
+I love learning a diverse range of technologies both through my work and experimentation, and consistently endorse Agile methodologies and XP values to help me along the way.
 
 ## Projects
 
 For a complete list, see my [GitHub](https://github.com/stephengeller/repositories).
 
 | Project  | Description  | Technologies|
-|:--------:|:----|:--------------|
+|:--------:|:-------------|:------------|
 |[helloWorld](https://github.com/stephengeller/Mapp)|Our final project at Makers Academy. A multi-lingual messaging service that translates before you receive them.|*Languages*: Python, Javascript <br/> *Frameworks*: CherryPy, jQuery <br/> *Testing*: UnitTest, PyTest, Jasmine <br/> *Persistence*: SQLite |
+|[CareFreeBreaks CMS](https://github.com/stephengeller/bookingAppCMS)|A CMS built for the [CareFreeBreaks booking app](https://carefreebreaks.com/), currently in production.|*Languages*: Javascript (ES6, ES7, JSX) <br/> *Frameworks*: React <br/> |
 |[Number Games App](https://github.com/stephengeller/number-games-app)|Fun personal project featuring two SPA number games & score persistence across the session. Hosted on my [website](http://stephengeller.co.uk/games) .|*Language*: Javascript <br/> *Frameworks*: NodeJS, ExpressJS <br/> *Testing*: Jasmine|
 |[stephengeller.co.uk](https://github.com/stephengeller/stephengeller-site)|Personal website created in my spare time using Node and ExpressJS after two weeks of learning JavaScript. Modified to additionally host a draft of my blog and bowling calculator.|*Language*: Javascript <br/> *Frameworks*: NodeJS, ExpressJS <br/> *Linting*: ESLint <br/> *Deployment*: Heroku|
 |[Bowling Calculator](https://github.com/stephengeller/bowling-challenge)|A program that calculates bowling scores on the fly. Made while learning about mixing front-end (EJS pages, CSS styling) with tested back-end (Javascript functions tested with Jasmine). Built over two weekends, hosted on my [website](http://stephengeller.co.uk/bowling).|*Language*: Javascript <br/> *Testing*: Jasmine|
@@ -28,9 +29,9 @@ For a complete list, see my [GitHub](https://github.com/stephengeller/repositori
 
 Picked up through Makers Academy and independent learning:
 - Practices: OOP, TDD, MVC, Pair-programming
-- Languages: Ruby, JavaScript, Python
-- Frameworks: Rails, Node.js, Express.js, CherryPy, jQuery
-- Currently teaching myself ReactJS
+- Infrastructure Tools: AWS (EC2, IAM, AMI, Lambda, S3, Cognito, DynamoDB, Secrets Manager, Amazon Alexa), GoCD, Nagios, Grafana, Graphite
+- Languages: JavaScript, Ruby, Python, Bash, Puppet, HashiCorp HCL
+- Frameworks: React.js, Rails, Node.js, Express.js, CherryPy, jQuery
 - Testing: Rspec, Capybara, Jasmine, Mocha / Chai, Zombie, UnitTest, PyTest
 
 #### Quick learner
@@ -69,10 +70,9 @@ I am equally keen on learning new techniques when required by the situation at h
 - Methodologies: Agile, XP
 
 #### University of Sheffield (September 2014 to June 2017)
-- Psychology (BSc)
-- 1st class (Hons)
+- 1st class (Hons) in Psychology (BSc)
 - Received a high 1st in my dissertation focused on social media use
-- Additional modules in music technology
+- Additional modules in music technology, sociology and journalism
 - Held various roles in the Sheffield University Theatre Company including Technical Manager (2015-2016)
 
 #### Reigate Grammar School, Surrey (September 2005 to 2012)
@@ -84,6 +84,13 @@ I am equally keen on learning new techniques when required by the situation at h
 
 ## Experience
 
+**Unruly** (December 2017 to Present)    
+*Software Developer - Shared Infrastructure Team (ShIfT)*
+- Specialise in infrastructure-related technologies, such as Puppet and Terraform.
+- Experienced in creating tested, reactive scripts to help automate repeated behaviours and improve infrastructure resilience across the greater development team.
+- Understand how to ensure all production infrastructure is secure, immutable and efficient while providing a safe environment for teams to roll out new features.
+- Practice Agile & XP, such as pair programming and TDD on all software development.
+
 **Sheffield University Student's Union** (August 2015 to June 2017)    
 *Information and Communication Assistant*
 
@@ -92,8 +99,12 @@ I am equally keen on learning new techniques when required by the situation at h
 
 ## Hobbies and Interests
 - Keen musician: I enjoy drumming and producing electronic music, and have had an original piece used as the theme song for a show that premiered on BBC Radio Scotland
+- Yogi: Practiced hot yoga for two years
+- Jack of all trades, master of none: I like to play around with new technologies and APIs (see my `<TECH>-playground` repositories) and get an MVP up and running to see how they work
 - Love films, theatre, television and video-games
 
 ## Contact me
 
-Email: stephen.geller@hotmail.com
+Email: stephen.sg.geller@gmail.com
+Twitter: [stephengeorge32](https://twitter.com/stephengeorge32)
+Instagram: [stephengeorgebaker](https://www.instagram.com/stephengeorgebaker/)
