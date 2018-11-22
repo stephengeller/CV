@@ -6,9 +6,8 @@ I am an ambitious full-stack web developer based in London, UK. I pick up new sk
 
 I am a graduate from [Makers Academy](http://www.makersacademy.com) - a 12-week intensive development bootcamp - and am currently employed at [Unruly](http://www.unruly.co) as a Software Developer specialising in shared infrastructure development.
 
-A graduate in Psychology from the University of Sheffield, I decided that I wanted to pursue a career in technology where I could be creative and engaged on a daily basis, and so I began investigating the world of software development.
 
-I love learning a diverse range of technologies both through my work and experimentation, and consistently endorse Agile methodologies and XP values to help me along the way.
+I love learning a diverse range of technologies both through my work and experimentation, and consistently endorse Agile methodologies and XP values to help me grow my skills.
 
 ## Projects
 
@@ -17,7 +16,7 @@ For a complete list, see my [GitHub](https://github.com/stephengeller/repositori
 | Project  | Description  | Technologies|
 |:--------:|:-------------|:------------|
 |[helloWorld](https://github.com/stephengeller/Mapp)|Our final project at Makers Academy. A multi-lingual messaging service that translates before you receive them.|*Languages*: Python, Javascript <br/> *Frameworks*: CherryPy, jQuery <br/> *Testing*: UnitTest, PyTest, Jasmine <br/> *Persistence*: SQLite |
-|[CareFreeBreaks CMS](https://github.com/stephengeller/bookingAppCMS)|A CMS built for the [CareFreeBreaks booking app](https://carefreebreaks.com/), currently in production.|*Languages*: Javascript (ES6, ES7, JSX) <br/> *Frameworks*: React <br/> |
+|[CareFreeBreaks CMS](https://github.com/stephengeller/bookingAppCMS)|A CMS built for the [CareFreeBreaks booking app](https://carefreebreaks.com/), currently in [production](http://cms.carefreebreaks.com).|*Languages*: Javascript (ES6, ES7, JSX) <br/> *Frameworks*: React <br/> |
 |[Number Games App](https://github.com/stephengeller/number-games-app)|Fun personal project featuring two SPA number games & score persistence across the session. Hosted on my [website](http://stephengeller.co.uk/games) .|*Language*: Javascript <br/> *Frameworks*: NodeJS, ExpressJS <br/> *Testing*: Jasmine|
 |[stephengeller.co.uk](https://github.com/stephengeller/stephengeller-site)|Personal website created in my spare time using Node and ExpressJS after two weeks of learning JavaScript. Modified to additionally host a draft of my blog and bowling calculator.|*Language*: Javascript <br/> *Frameworks*: NodeJS, ExpressJS <br/> *Linting*: ESLint <br/> *Deployment*: Heroku|
 |[Bowling Calculator](https://github.com/stephengeller/bowling-challenge)|A program that calculates bowling scores on the fly. Made while learning about mixing front-end (EJS pages, CSS styling) with tested back-end (Javascript functions tested with Jasmine). Built over two weekends, hosted on my [website](http://stephengeller.co.uk/bowling).|*Language*: Javascript <br/> *Testing*: Jasmine|
@@ -26,10 +25,9 @@ For a complete list, see my [GitHub](https://github.com/stephengeller/repositori
 ## Skills
 
 #### Coding
-
-Picked up through Makers Academy and independent learning:
 - Practices: OOP, TDD, MVC, Pair-programming
-- Infrastructure Tools: AWS (EC2, IAM, AMI, Lambda, S3, Cognito, DynamoDB, Secrets Manager, Amazon Alexa), GoCD, Nagios, Grafana, Graphite
+- Linux distributions: CentOS 6, CentOS 7, Jessie (Raspbian)
+- Infrastructure Tools: Puppet, Nagios, AWS (EC2, IAM, AMI, Lambda, S3, Cognito, DynamoDB, Secrets Manager, Amazon Alexa), GoCD, Grafana, Graphite
 - Languages: JavaScript, Ruby, Python, Bash, Puppet, HashiCorp HCL
 - Frameworks: React.js, Rails, Node.js, Express.js, CherryPy, jQuery
 - Testing: Rspec, Capybara, Jasmine, Mocha / Chai, Zombie, UnitTest, PyTest
