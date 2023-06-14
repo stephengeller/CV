@@ -104,5 +104,3 @@ I am equally keen on learning new techniques when required by the situation at h
 ## Contact me
 
 Email: githubcv@geller.dev
-Twitter: [stephengeorge32](https://twitter.com/stephengeorge32)
-Instagram: [stephengeorgebaker](https://www.instagram.com/stephengeorgebaker/)
