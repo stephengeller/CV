@@ -1,6 +1,6 @@
 ## Stephen Geller
 
-[Projects](#projects) | [Skills](#skills) |  [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/) | [My Website](http://www.stephengeller.co.uk)
+[Projects](#projects) | [Skills](#skills) |  [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/stephen-geller-30850b119/)
 
 I am an ambitious full-stack web developer based in London, UK. I pick up new skills very quickly, and can produce clean tested code following best practices. I have previous experience working in large technical teams, and have managed technical work in theatre productions.
 
@@ -57,7 +57,7 @@ I am equally keen on learning new techniques when required by the situation at h
 
 - In 2017, I participated in a charity hitch-hike ([Bummit](bummit.co.uk)) from Sheffield to Riga, Latvia, all whilst trying to spend as little money as possible. We were tasked with reaching our destination within ten days.
 - As a group of three, we had to make confident decisions as to what route we should take throughout Europe, how to approach strangers and where to go within cities we arrived in, all whilst learning to speak unfamiliar new languages.
-- Using these skills, we arrived in Riga within our time-limit, having covered 1,600 miles, 9 cities and 6 countries. I also raised £335 for the selected charities, and made a (poorly-edited) [video of my experience!](https://www.youtube.com/watch?v=dEGBNfc9FT0)
+- Using these skills, we arrived in Riga within our time-limit, having covered 1,600 miles, 9 cities and 6 countries. I also raised £335 for the selected charities, and made a (poorly-edited) video of my experience (DM for details)!
 
 
 ## Education
@@ -100,7 +100,3 @@ I am equally keen on learning new techniques when required by the situation at h
 - Yogi: Practiced hot yoga for two years
 - Jack of all trades, master of none: I like to play around with new technologies and APIs (see my `<TECH>-playground` repositories) and get an MVP up and running to see how they work
 - Love films, theatre, television and video-games
-
-## Contact me
-
-Email: githubcv@geller.dev
